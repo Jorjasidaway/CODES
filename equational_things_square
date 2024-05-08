@@ -1,0 +1,7 @@
+# math stuff
+# jorja sidaway
+
+# square
+side = float(input("What is the length of a side of the square? "))
+area = side ** 2
+print(f"The area of the square is: {area}")
